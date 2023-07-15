@@ -8,7 +8,9 @@ I develop software that is **easy** to use, easy to develop and **expand** on. W
 
 **Let's make a dent in the universe, together.**
 
+<!--
 ![Kiha's GitHub stats](https://github-readme-stats.vercel.app/api?username=KihaJeong1994&show_icons=true&theme=default)
+-->
 
 <!--
 **KihaJeong1994/KihaJeong1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
