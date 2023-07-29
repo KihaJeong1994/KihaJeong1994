@@ -8,9 +8,9 @@ I develop software that is **easy** to use, easy to develop and **expand** on. W
 
 **Let's make a dent in the universe, together.**
 
-KTDS Oct 23 ~
+*KTDS* Oct 23 ~
 
-Honestchoice Mar 23 ~ Sep 23
+*Honestchoice* Mar 23 ~ Sep 23
 
 <!--
 ![Kiha's GitHub stats](https://github-readme-stats.vercel.app/api?username=KihaJeong1994&show_icons=true&theme=default)
