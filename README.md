@@ -8,15 +8,21 @@ I develop software that is **easy** to use, easy to develop and **expand** on. W
 
 **Let's make a dent in the universe, together.**
 
+***TmaxGAIA***
+
+Jan 24 ~
+
+Tmax Office solution
+
 ***KTDS***
 
-Oct 23 ~
+Oct 21 ~ Dec 23
 
 KTDS API gateway solution
 
 ***Honestchoice*** 
 
-Mar 23 ~ Sep 23
+Mar 21 ~ Sep 21
 
 <!--
 ![Kiha's GitHub stats](https://github-readme-stats.vercel.app/api?username=KihaJeong1994&show_icons=true&theme=default)
